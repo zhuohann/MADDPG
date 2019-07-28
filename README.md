@@ -29,8 +29,8 @@ Download the Unity environment:
 
 
 ## Results
-The agents were able to reach an average score of ,over 100 consecutive episodes,0.5 after 3147 episodes.
-![](images/07262019-01.png)
+The agents were able to reach an average score of ,over 100 consecutive episodes,0.5 after just 552 episodes.
+![](images/07282019-01.png)
 
 ## Usage
 
